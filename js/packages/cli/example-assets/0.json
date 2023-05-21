@@ -7,12 +7,12 @@
     "category": "image",
     "creators": [
       {
-        "address": "CV6uQbknPdCVPQunQHqosyvdHJeTuq3629VJdzs8AYjV",
+        "address": "ESoxeFHByKJo38Bdk9FZyTTnk4mUXSSCmcTPjQMpUBur",
         "share": 100
       }
     ]
   },
-  "description": "",
+  "description": "top notch GO-RILLA",
   "seller_fee_basis_points": 500,
   "attributes": [
     { "trait_type": "background", "value": "blue" },
@@ -20,5 +20,5 @@
     { "trait_type": "mouth", "value": "triangle-mouth" },
     { "trait_type": "face", "value": "teal-face" }
   ],
-  "collection": {}
+  "collection": {gorillawarfarenft}
 }
